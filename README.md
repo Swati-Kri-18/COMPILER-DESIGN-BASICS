@@ -36,6 +36,10 @@ DESCRIBTION-> This project is a basic yet educational implementation of a mini-c
 
 -> Parsing: Implements a recursive descent parser following a simplified grammar
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/13ffa313-9033-4a47-b39d-c0997ef1b79b)
+
 -> Operator Precedence: Ensures multiplication/division is evaluated before addition/subtraction
 
 -> Expression Trees (implicit): Mimics the structure of an expression tree in recursive logic
